@@ -1,4 +1,4 @@
-git status --> check the status of folder/file
+git status --> check the status of folder or file
 git init --> initializes the git repository
 git add notes.txt -->
 git add * -->
