@@ -1,6 +1,6 @@
 git status --> check the status of folder or file
 git init --> initializes the git repository
-git add notes.txt -->
+git add notes.txt --> add file to stagging area
 git add * -->
 git commit -m " commit 1" -->
 
